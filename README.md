@@ -10,9 +10,7 @@ CFD-MAE is designed to improve object detection performance in challenging scene
 
 ## Framework
 
-The overall architecture of CFD-MAE is shown below.
-
-![CFD-MAE Framework](figs/CFD-MAE.png)
+We will provide the overall architecture of CFD-MAE as soon as possible.
 
 ## Results
 
