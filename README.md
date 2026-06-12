@@ -2,7 +2,7 @@
 
 This repository contains the official implementation of **CFD-MAE**, a deep learning framework for robust object detection under complex degraded visual conditions.
 
-The corresponding manuscript has been submitted to **IEEE Transactions on Instrumentation and Measurement (IEEE TIM)** and is currently under review.
+The corresponding manuscript has been submitted to **IEEE Transactions on Instrumentation and Measurement (IEEE TIM)** for review.
 
 ## Overview
 
