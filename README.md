@@ -7,6 +7,11 @@ This is a compact GitHub release of **CFD-MAE** for object detection under degra
   <img src="https://github.com/RDXiaoHuang/CFD-MAE/tree/master/figs/Graphical_abstract.jpg?raw=true" width="900"/>
 </p>
 
+## Results
+<p align="center">
+  <img src="https://github.com/RDXiaoHuang/CFD-MAE/tree/master/figs/result.png?raw=true" width="900"/>
+</p>
+
 The release keeps the main reproducible pipeline only:
 
 - cross-frequency masked autoencoder pretraining;
