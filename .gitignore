@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+dataset/
+logs/
+runs/
+
+checkpoint/*.pth
+checkpoint/*.pt
+model_data/*.pth
+model_data/*.pt
+model_data/*.ckpt
+!model_data/unified_classes.txt
+!model_data/yolo_anchors.txt
+
+.DS_Store
