@@ -3,14 +3,16 @@
 This is a compact GitHub release of **CFD-MAE** for object detection under degraded visual conditions, including haze/fog, low-light, and rain scenes.
 
 ## Graphical Abstract
-<p align="center">
-  <img src="https://github.com/RDXiaoHuang/CFD-MAE/tree/master/figs/Graphical_abstract.jpg" width="900"/>
-</p>
+
+  <p align="center">
+    <img src="figs/Graphical_abstract.jpg" width="900"/>
+  </p>
 
 ## Results
-<p align="center">
-  <img src="https://github.com/RDXiaoHuang/CFD-MAE/tree/master/figs/result.png" width="900"/>
-</p>
+
+  <p align="center">
+    <img src="figs/result.png" width="900"/>
+  </p>
 
 The release keeps the main reproducible pipeline only:
 
