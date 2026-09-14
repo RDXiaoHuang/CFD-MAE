@@ -2,15 +2,6 @@
 
 This is a compact GitHub release of **CFD-MAE** for object detection under degraded visual conditions, including haze/fog, low-light, and rain scenes.
 
-The release keeps the main reproducible pipeline only:
-
-- cross-frequency masked autoencoder pretraining;
-- LF image enhancement and HF-prior-guided DASM;
-- YOLOv26n baseline training;
-- CFD-MAE + YOLOv26n training and VOC AP@50 testing.
-
-Extra ablation runners, external detector baselines, temporary logs, and paper-table scripts are intentionally removed.
-
 ## Environment
 
 ```bash
